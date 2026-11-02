@@ -25,3 +25,6 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+## Live Demo
+
+[Click here to view the COVID-19 Simulation](https://covid-19-simulation-python-apkpjkmgox4bxehxbftagn.streamlit.app/)
